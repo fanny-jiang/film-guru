@@ -1,7 +1,7 @@
 {
-  "name": "boilermaker",
+  "name": "film-guru",
   "version": "1.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "You and a friend can't decide on a movie? Film Guru to the rescue! Choose films you both like, and we'll find something you'll both love.",
   "engines": {
     "node": ">= 7.0.0"
   },
